@@ -30,7 +30,7 @@ export default {
       <p class="font-general-semibold text-xl text-left font-semibold mb-2 text-gray-400">
         {{ project.title }}
       </p>
-      <p class="font-general-regular text-sm text-gray-700 text-justify mb-10">
+      <p class="font-general-regular text-sm text-gray-300 text-justify mb-10">
         {{ project.msg }}
       </p>
     </div>
