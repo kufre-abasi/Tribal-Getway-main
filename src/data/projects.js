@@ -5,22 +5,22 @@ const projects = [
 	{
 		id: 1,
 		title: 'Tutor Guide',
-		icon: "github",
+		icon: "&#128676;",
 		msg: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, magna vel viverra egestas, massa velit ultrices velit, id aliquam magna nulla id nibh. Nulla facilisi. Sed luctus est sit amet tempor luctus. Integer ullamcorper, ligula id auctor aliquam, nisl est congue risus, euismod rhoncus risus ante ac ligula."
 
 		// img: require('@/assets/images/leadfrom.jpg'),
 	},
 	{
 		id: 2,
-		title: 'Relocating',
-		icon: "github",
+		title: 'Travel',
+		icon: "&#128747;",
 		msg: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, magna vel viverra egestas, massa velit ultrices velit, id aliquam magna nulla id nibh. Nulla facilisi. Sed luctus est sit amet tempor luctus. Integer ullamcorper, ligula id auctor aliquam, nisl est congue risus, euismod rhoncus risus ante ac ligula."
 		// img: require('@/assets/images/logovertical.png'),
 	},
 	{ 
 		id: 3,
 		title: 'Resort',
-		icon: "github",
+		icon: "&#127958;",
 		msg: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, magna vel viverra egestas, massa velit ultrices velit, id aliquam magna nulla id nibh. Nulla facilisi. Sed luctus est sit amet tempor luctus. Integer ullamcorper, ligula id auctor aliquam, nisl est congue risus, euismod rhoncus risus ante ac ligula."
 		// img: require('@/assets/images/trek-bay.jpg'),
 	}, 

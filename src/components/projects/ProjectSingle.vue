@@ -23,7 +23,7 @@ export default {
           data-feather="chart"
           class="cursor-pointer text-left items-left rounded-lg bg-primary shadow-sm duration-500 mb-10 p-6"
         >
-          <i :data-feather="project.icon" class="w-0 h-0 m-0"></i>
+          <i class="w-0 h-0 m-0">{{ project.icon }}</i>
         </a>
       </ul>
     </div>
