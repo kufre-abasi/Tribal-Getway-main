@@ -22,7 +22,7 @@ export default {
         <a
           class="cursor-pointer text-left items-left rounded-lg bg-primary shadow-sm duration-500 mb-10 p-6"
         >
-          <i class="w-0 h-0 m-0">&#9660;</i>
+          <i class="w-0 h-0 m-0">&#9949;</i>
         </a>
       </ul>
     </div>
