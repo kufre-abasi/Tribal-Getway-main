@@ -95,7 +95,7 @@ export default {
           target="__blank"
           class="cursor-pointer rounded-lg bg-gray-400 shadow-sm p-2 duration-500"
         >
-          <i :data-feather="social.icon" class="w-4 sm:w-5 h-4 sm:h-6"></i>
+          <i class="w-4 sm:w-5 h-4 sm:h-6">&#9949; </i>
         </a>
       </ul>
 
