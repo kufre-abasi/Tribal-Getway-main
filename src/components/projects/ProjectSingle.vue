@@ -20,10 +20,9 @@ export default {
     <div class="text-left items-left px-4 py-3">
       <ul class="items-left text-left">
         <a
-          data-feather="chart"
           class="cursor-pointer text-left items-left rounded-lg bg-primary shadow-sm duration-500 mb-10 p-6"
         >
-          <i class="w-0 h-0 m-0">{{ project.icon }}</i>
+          <i class="w-0 h-0 m-0">&#128676;{{ project.icon }}</i>
         </a>
       </ul>
     </div>
