@@ -73,7 +73,7 @@ export default {
 <template>
   <nav
     id="nav"
-    class="shadow-xl fixed top-0 z-10 bg-primary-dark bg-opacity-40 md:px-20 px-10 w-full"
+    class="shadow-xl fixed top-0 z-10 bg-primary-dark bg-opacity-30 md:px-20 px-10 w-full"
   >
     <!-- Header start -->
     <div
@@ -119,7 +119,7 @@ export default {
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
-              class="h-7 w-7 fill-current text-gray-600"
+              class="h-7 w-7 fill-current text-primary"
             >
               <path
                 v-if="isOpen"
